@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start-dev": "nodemon src/server.js",
-    "start": "node src/server.js",
-    "build" : "npm install"
+    "start": "node src/server.js"
+    
   },
   "author": "Lucia",
   "license": "ISC",
